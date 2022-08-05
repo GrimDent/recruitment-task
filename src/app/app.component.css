@@ -1,0 +1,25 @@
+.form{
+    margin: auto;
+    width: 50%;
+    background-color: #8d99ae;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    padding: 30px;
+    
+}
+.background{
+    width: 100%;
+    height: 100%;
+    background-color: #2b2d42;
+}
+.title{
+    color: #8d99ae;
+    text-align: center;
+}
+.pass_button{
+    background-color: #8d99ae;
+    border-radius: 10px;
+}
